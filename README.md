@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohith26p@gmail.com**
 
-- ⚡ Fun fact **A weeb who think he is funny**
+- ⚡ Fun fact: **A weeb who think he is funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
