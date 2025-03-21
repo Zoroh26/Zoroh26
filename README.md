@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Autonomous rover Nagivation<br><br>🌱 I’m currently learning Nextjs, threejs, React Native<br><br>💬 Ask me about Reactjs, Html, Css<br><br>📫 How to reach me rohith26p@gmail.com<br><br>
+ 🔭 I’m currently working on Autonomous rover Nagivation<br><br>🌱 I’m currently learning Next.js, three.js, React Native<br><br>💬 Ask me about Next.js, React.js, Html, Css<br><br>📫 How to reach me rohith26p@gmail.com<br><br>
 
 
 ## 🌐 Socials:
